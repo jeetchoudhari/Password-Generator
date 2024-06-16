@@ -2,7 +2,7 @@
 
 A simple password generator app developed using HTML, CSS, JavaScript to generate random password.<br><br>
 
-**Demo Link:** https://jeetchoudhari.github.io/Password-Generator/
+**Test the project:** https://jeetchoudhari.github.io/Password-Generator/
 <br><br>
 **Technologies used:** HTML, CSS, JavaScript, Github
 <br><br>
