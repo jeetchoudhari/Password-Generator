@@ -11,6 +11,7 @@ A simple password generator app developed using HTML, CSS, JavaScript to generat
 **How to Run:**
 1. Open the index.html file
 <br>
-**Screenshots**
+
+**Screenshots:**
 
 ![image](https://github.com/jeetchoudhari/Password-Generator/assets/41011755/cc8bfc85-3880-4251-a7d2-2c7294f399c3)
